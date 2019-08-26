@@ -42,10 +42,10 @@ const findAndLogEmployeeStatus = (employee) => {
     return employee;
 }
 
-const person = {
-    name: 'Michael',
-    status: ''
-}
+//const person = {
+  //  name: 'Michael',
+    //status: ''
+//}
 
 
 findAndLogEmployeeStatus(person)
